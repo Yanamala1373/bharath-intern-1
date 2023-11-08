@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    background-color:aqua
+}
+#converter {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:yellow;
+    border-radius: 5px;
+}
